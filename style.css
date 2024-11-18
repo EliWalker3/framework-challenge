@@ -1,0 +1,27 @@
+body {
+    background-color: #f2f2f2;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.error-code {
+    font-size: 4rem;
+    font-weight: bold;
+}
+.message {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+.btn-custom {
+    background-color: #ff7700;
+    color: #fff;
+    border: none;
+}
+.btn-custom:hover {
+    background-color: #e56600;
+}
+.footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #666;
+}
